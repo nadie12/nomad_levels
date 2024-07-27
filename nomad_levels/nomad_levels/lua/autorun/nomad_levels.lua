@@ -1,4 +1,4 @@
-NomadLevels = {}
+NomadLevels = {} --
 
 local function loadDirectory(dir)
     local fil, fol = file.Find(dir .. "/*", "LUA")
